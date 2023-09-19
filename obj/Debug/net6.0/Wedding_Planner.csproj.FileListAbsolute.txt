@@ -1,0 +1,75 @@
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\appsettings.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\WeddingPlanner.staticwebassets.runtime.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\WeddingPlanner.exe
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\WeddingPlanner.deps.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\WeddingPlanner.runtimeconfig.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\WeddingPlanner.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\WeddingPlanner.pdb
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.AssemblyInfo.cs
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.RazorAssemblyInfo.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.RazorAssemblyInfo.cs
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\scopedcss\bundle\WeddingPlanner.styles.css
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\scopedcss\projectbundle\WeddingPlanner.bundle.scp.css
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.csproj.CopyComplete
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\refint\WeddingPlanner.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.pdb
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\WeddingPlanner.genruntimeconfig.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\ORM\Belt Prep\WeddingPlanner\obj\Debug\net6.0\ref\WeddingPlanner.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\appsettings.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Humanizer.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Wedding_Planner.staticwebassets.runtime.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Wedding_Planner.exe
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Wedding_Planner.deps.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Wedding_Planner.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Wedding_Planner.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\bin\Debug\net6.0\Wedding_Planner.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.RazorAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.RazorAssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\staticwebassets\msbuild.Wedding_Planner.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\staticwebassets\msbuild.build.Wedding_Planner.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Wedding_Planner.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Wedding_Planner.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\scopedcss\bundle\Wedding_Planner.styles.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\scopedcss\projectbundle\Wedding_Planner.bundle.scp.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\refint\Wedding_Planner.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\Wedding_Planner.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Wedding Planner\obj\Debug\net6.0\ref\Wedding_Planner.dll

@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+@model List<Wedding>
+@{
+    int UUID = (int)Context.Session.GetInt32("UUID");
+}
+<div class="d-flex justify-content-between align-items-center border-bottom">
+    <h2>Welcome, @Context.Session.GetString("LoggedUser")!</h2>
+    <div class="d-flex justify-content-cneter gap-3 align-items-center">
+        <a asp-action="AllWeddings" asp-controller="Wedding">Home</a>
+        <a asp-action="PlanWedding" asp-controller="Wedding">Plan a Wedding</a>
+        <form asp-action="LogoutUser" asp-controller="User" method="Post">
+            <button class="btn btn-link">Logout</button>
+        </form>
+    </div>
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Wedding of</th>
+            <th>Date</th>
+            <th>Guest Count</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Wedding w in Model)
+        {
+            bool rsvp = w.UsersGuest.Any(ug => ug.UserId == UUID);
+            <tr>
+                <td>
+                    <a asp-action="OneWedding" asp-controller="Wedding" asp-route-id="@w.WeddingId">@w.WedderOne &
+                        @w.WedderTwo</a>
+                </td>
+                <td>@w.Date.ToString("MMM dd, yyyy")</td>
+                <td>@w.UsersGuest.Count</td>
+                <td>
+                    @if (w.UserId == UUID)
+                    {
+                        <form asp-action="Delete" asp-controller="Wedding" asp-route-id="@w.WeddingId" method="Post">
+                            <button class="btn btn-danger">Delete</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-action="RSVP" asp-controller="Wedding" asp-route-id="@w.WeddingId" method="Post">
+                            <button class="btn btn-primary">@(rsvp ? "Un-RSVP" : "RSVP")</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
